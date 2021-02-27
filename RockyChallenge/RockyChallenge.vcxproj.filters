@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="10\SortFile.cpp">
+    <ClCompile Include="Sort_IP.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
